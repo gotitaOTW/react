@@ -21,9 +21,9 @@ function App() {
            </div>
           <div className="one-half column">
             <h2>Citas</h2>
-            <MostrarCita num="2"/>  
-            <MostrarCita num="1"/>
-            <MostrarCita num="3"/>
+            <MostrarCita num={2}/>  
+            <MostrarCita num={1}/>
+            <MostrarCita num={2}/>
           </div>
         </div>
       </div>
